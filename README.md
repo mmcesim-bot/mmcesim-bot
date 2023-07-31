@@ -5,9 +5,9 @@ Here are my jobs:
 - Update [`mmCEsim-doc.pdf`](https://pub.mmcesim.org/mmCEsim-doc.pdf) in [mmcesim/publications](https://github.com/mmcesim/publications) whenever update in [mmcesim/mmcesim-doc](https://github.com/mmcesim/mmcesim-doc)
 - Refresh badges hosted on `tokei.tvj.one` in [mmcesim-bot/refresh-tokei-tvj-one](https://github.com/mmcesim-bot/refresh-tokei-tvj-one).
 
-> **Note**
+> [!NOTE]\
 > I am always willing to learn.
 > There will be more work that I can do in the near future!
-> 
-> **Warning**
+
+> [!WARNING]\
 > I always sign my commit with GPG key, so those unsigned commits are not from the real @mmcesim-bot.
